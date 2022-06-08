@@ -3,20 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-<<<<<<< HEAD
-  - abridorPuerta
-=======
-  - DrinkAble
-  - Eatable
-  - OilBarrel
-  - LampControl
-  - Mineable
-  - Planter
-  - Generator
-  - SpotLight
-  - AI
->>>>>>> 29a99c526dcfa4a46e03bd300cb1951799d4fbb6
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -26,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - Lamps
-  - Support
-  - Holding
-  - Debug
-  - Generator
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
