@@ -4,21 +4,33 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - JumpTeleport
+<<<<<<< HEAD
+  - abridorPuerta
+=======
+  - DrinkAble
+  - Eatable
+  - OilBarrel
+  - LampControl
+  - Mineable
+  - Planter
+  - Generator
+  - SpotLight
+  - AI
+>>>>>>> 29a99c526dcfa4a46e03bd300cb1951799d4fbb6
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Interactable
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Lamps
+  - Support
+  - Holding
+  - Debug
+  - Generator
   - 
   - 
   - 
