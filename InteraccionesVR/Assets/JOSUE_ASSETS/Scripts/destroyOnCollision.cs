@@ -11,8 +11,9 @@ public class destroyOnCollision : MonoBehaviour
     {
         if (collision.gameObject.name == "aquiVaElTalisman")
         {
-            Destroy(pared.gameObject);
+            
             seAbrePuerta.Play();
+            Destroy(pared.gameObject);
         }
     }
 
