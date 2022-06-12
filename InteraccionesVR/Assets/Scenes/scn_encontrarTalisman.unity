@@ -47689,7 +47689,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'In this cave find the Talisman.You need to move objects to find it.
+  m_text: 'In this cave, you need to find the Code and write it in the panel.
 
     Once
     you have it continue the ride.'
