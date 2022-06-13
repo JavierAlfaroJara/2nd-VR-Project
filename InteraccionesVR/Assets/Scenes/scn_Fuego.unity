@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.000018811319, g: 0.000000035341476, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.000018332174, g: 0.000000032992784, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -17153,7 +17153,7 @@ GameObject:
   - component: {fileID: 909773356}
   - component: {fileID: 909773355}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: irAexplicacionFuego
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19213,7 +19213,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43904
+  m_Name: pb_Mesh49554
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

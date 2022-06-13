@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/menuEntrada.unity
+    guid: a4625d3cbd3c11c419069115071b61b3
+  - enabled: 1
     path: Assets/Scenes/scn_Fuego.unity
     guid: 43c14da97e89fe04392cf26188b65227
   - enabled: 1
@@ -14,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scn_huirDeZombie.unity
     guid: e077cbf96646a6b4f9c73178e052648f
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 1c22ec2b5bb07464abb0268e47ac28c9
+  - enabled: 1
+    path: Assets/Scenes/explicacionFuego.unity
+    guid: 7b93e8f8ae945504aae6e8ecce82e39d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b365f4b8433d3a4f8986fd8bc499ab8,
       type: 2}
