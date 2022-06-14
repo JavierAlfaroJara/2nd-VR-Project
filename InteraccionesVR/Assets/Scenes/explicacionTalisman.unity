@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.004602547, g: 0.004261927, b: 0.0023124276, a: 1}
+  m_IndirectSpecularColor: {r: 0.0046025463, g: 0.004261924, b: 0.0023124185, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 73077761}
   - component: {fileID: 73077760}
   m_Layer: 0
-  m_Name: salirDelJuego
+  m_Name: irMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -784,7 +784,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284256
+  m_Name: pb_Mesh34024
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5974,7 +5974,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284258
+  m_Name: pb_Mesh34200
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12166,7 +12166,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284264
+  m_Name: pb_Mesh33932
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14312,7 +14312,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284262
+  m_Name: pb_Mesh34004
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14710,7 +14710,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284276
+  m_Name: pb_Mesh33948
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15548,14 +15548,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1170750413}
-  m_LocalRotation: {x: -0, y: 0.029091222, z: -0, w: 0.9995768}
-  m_LocalPosition: {x: 9.190971, y: 0.86, z: -15.536603}
+  m_LocalRotation: {x: -0, y: -0.34169778, z: -0, w: 0.93980986}
+  m_LocalPosition: {x: 7.52, y: 0.86, z: -2.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1364969736}
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 3.334, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -39.961, z: 0}
 --- !u!114 &1170750415
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16725,7 +16725,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh152774
+  m_Name: pb_Mesh33984
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16973,7 +16973,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You have to find the code at cave. You can walk around the cave.
+  m_text: You have to find the code at the cave. You can just walk around and move
+    things.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -18932,7 +18933,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1524349486}
   m_LocalRotation: {x: -0, y: -0.4649679, z: -0, w: 0.8853275}
-  m_LocalPosition: {x: -3.187932, y: 0.13999999, z: 10.984887}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1364969736}
@@ -18976,7 +18977,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284328
+  m_Name: pb_Mesh34092
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -19367,7 +19368,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284252
+  m_Name: pb_Mesh34036
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -19531,7 +19532,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-284282
+  m_Name: pb_Mesh34232
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

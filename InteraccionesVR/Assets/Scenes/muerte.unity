@@ -8763,7 +8763,7 @@ GameObject:
   - component: {fileID: 926243227}
   - component: {fileID: 926243226}
   m_Layer: 0
-  m_Name: salirDelJuego
+  m_Name: irMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11636,7 +11636,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-74802
+  m_Name: pb_Mesh30048
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.024967156, g: 0.022754043, b: 0.070475414, a: 1}
+  m_IndirectSpecularColor: {r: 0.025177393, g: 0.02305919, b: 0.069670245, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2737,7 +2737,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 528579468}
   m_LocalRotation: {x: -0, y: -0.4649679, z: -0, w: 0.8853275}
-  m_LocalPosition: {x: -3.187932, y: 0.13999999, z: 10.984887}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 228824468}
@@ -3835,7 +3835,7 @@ GameObject:
   - component: {fileID: 574478127}
   - component: {fileID: 574478126}
   m_Layer: 0
-  m_Name: irAEscenaDeFuego
+  m_Name: irAexplicacionFuego
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16013,14 +16013,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1244787225}
-  m_LocalRotation: {x: -0, y: 0.029091222, z: -0, w: 0.9995768}
-  m_LocalPosition: {x: 9.190971, y: 0.86, z: -15.536603}
+  m_LocalRotation: {x: -0, y: -0.31457922, z: -0, w: 0.9492312}
+  m_LocalPosition: {x: 6.922523, y: 0.86, z: -2.963124}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 228824468}
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 3.334, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -36.671, z: 0}
 --- !u!1001 &1250539440
 PrefabInstance:
   m_ObjectHideFlags: 0
