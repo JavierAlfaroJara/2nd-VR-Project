@@ -42,7 +42,16 @@ public class irSiguienteEscena : MonoBehaviour
         {
             print("Ir a la escena de la explicacion de fuego");
             SceneManager.LoadScene(5);
-            
+
+        } else if (collision.gameObject.name == "muerte")
+        {
+            print("Chale se murió");
+            SceneManager.LoadScene(6);
+
+        } else if (collision.gameObject.name == "irExplicacionZombie")
+        {
+            print("Ir a la escena de la explicación de zombies");
+            SceneManager.LoadScene(7);
         }
     }
 }
