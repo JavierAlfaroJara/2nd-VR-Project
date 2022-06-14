@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/explicacionFuego.unity
     guid: 7b93e8f8ae945504aae6e8ecce82e39d
+  - enabled: 1
+    path: Assets/Scenes/muerte.unity
+    guid: 2ae4801bd2704d94b9080dfb6131e922
+  - enabled: 1
+    path: Assets/Scenes/explicacionZombies.unity
+    guid: c594780bb9abe9243b92844c314c66c1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b365f4b8433d3a4f8986fd8bc499ab8,
       type: 2}
