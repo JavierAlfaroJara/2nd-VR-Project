@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/explicacionZombies.unity
     guid: c594780bb9abe9243b92844c314c66c1
+  - enabled: 1
+    path: Assets/Scenes/explicacionTalisman.unity
+    guid: fa103722fab59e941b8855f20025177e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b365f4b8433d3a4f8986fd8bc499ab8,
       type: 2}

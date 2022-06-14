@@ -16,10 +16,16 @@ public class irSiguienteEscena : MonoBehaviour
             print("Vamonossss a la escena de fuego");
             SceneManager.LoadScene(1);
 
-            // Ir a la escena del talisman
+            // Ir a la escena de explicacion cueva
         } else if (collision.gameObject.name == "Teletrasportador")
         {
-            print("Ir a la escena del talisman");
+            print("Ir a la escena explicacion cueva");
+            SceneManager.LoadScene(8);
+
+            // Ir a la escena cueva
+        } else if (collision.gameObject.name == "irEscenaCueva")
+        {
+            print("Ir a la escena de la cueva");
             SceneManager.LoadScene(2);
 
             // Ir a la escena final
@@ -45,12 +51,12 @@ public class irSiguienteEscena : MonoBehaviour
 
         } else if (collision.gameObject.name == "muerte")
         {
-            print("Chale se murió");
+            print("Chale se muriï¿½");
             SceneManager.LoadScene(6);
 
         } else if (collision.gameObject.name == "irExplicacionZombie")
         {
-            print("Ir a la escena de la explicación de zombies");
+            print("Ir a la escena de la explicaciï¿½n de zombies");
             SceneManager.LoadScene(7);
         }
     }
