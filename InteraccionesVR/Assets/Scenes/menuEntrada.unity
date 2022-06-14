@@ -706,7 +706,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37136
+  m_Name: pb_Mesh71804
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -930,7 +930,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 252696498}
-  m_MoveSpeed: 1
+  m_MoveSpeed: 2
   m_EnableStrafe: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 0
@@ -1389,13 +1389,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 332829677}
-  m_LocalRotation: {x: -0.11897942, y: 0.34411052, z: 0.2687185, w: 0.89175236}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: -0.2529221, y: 0.20136121, z: 0.9296807, w: 0.17657264}
+  m_LocalPosition: {x: 2.65, y: 11.49, z: -0.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -23.399, y: 36.802, z: 25.657}
+  m_LocalEulerAnglesHint: {x: -27.628, y: 333.222, z: -194.809}
 --- !u!1 &367905124
 GameObject:
   m_ObjectHideFlags: 0
@@ -10333,7 +10333,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37124
+  m_Name: pb_Mesh71792
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10497,7 +10497,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37192
+  m_Name: pb_Mesh71868
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16451,7 +16451,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.7411765, g: 0.2901961, b: 0, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 2
   m_Range: 50
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -16507,7 +16507,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37164
+  m_Name: pb_Mesh71840
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16803,7 +16803,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37272
+  m_Name: pb_Mesh72042
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17231,7 +17231,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.7411765, g: 0.2901961, b: 0, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 2
   m_Range: 50
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -17276,7 +17276,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: -2.5268015e-20, z: 1.88e-43, w: 9e-44}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -17287,7 +17287,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37068
+  m_Name: pb_Mesh71714
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17768,7 +17768,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh37254
+  m_Name: pb_Mesh72024
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17932,7 +17932,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh38714
+  m_Name: pb_Mesh71896
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18098,7 +18098,7 @@ LightingSettings:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   serializedVersion: 3
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_EnableBakedLightmaps: 1
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 1
@@ -18989,7 +18989,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh38670
+  m_Name: pb_Mesh71852
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
